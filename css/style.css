@@ -1,0 +1,278 @@
+.section-head{
+    margin: 70px 0;
+}
+
+.NAV{
+    background-color: rgba(90, 110, 103, 0.4);
+    padding-top: 20px;
+}
+#logo{    
+    height: 120px;
+}
+#logo img{    
+    width: 100px;
+} 
+#imlo{
+    width: 100px;
+    margin-top: 20px;
+    
+}
+.nav-bar{
+    text-align: center;
+    padding: 20px 0;
+}
+.nav-bar ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 0 15px;
+    font-size: 20px;
+    
+}
+
+.nav-bar ul li:hover{
+    background-color: #bdc3c7;
+}
+.nav-bar ul li a{
+    text-decoration: none;
+   color: whitesmoke;
+   
+
+}
+.baner{
+    background: url(../images/banr.jpg) no-repeat 0 0 ;
+    background-size: cover;
+    height: 400px;
+    margin-bottom: 80px;
+}
+.ban-main{
+    padding: 20px 0 ;
+}
+
+.service-box{
+    text-align: center;
+}
+.service-box i.fa{
+    color: #fff;
+    font-size: 150px;
+    margin-bottom: 10px;
+}
+.leaf{
+    text-align: center;
+    font-size: 100px;
+    color: #fff;
+}
+.txt{
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.butn{
+    display: block;
+
+}
+.butn a{
+    border: 1px solid #bdc3c7;
+   text-decoration: none;
+   color: #fff;
+   font-size: 20px;
+
+}
+.butn a:hover{
+    background-color: #bdc3c7 ;
+  
+}
+.right-item{
+    text-decoration: none;
+    color: black;
+    
+}
+.left-item{
+    text-decoration: none;
+    color: black;
+    
+}
+.right-item i{
+    margin-right: 10px;
+}
+.innr-item img{
+    width: 100%;
+    
+    size: cover;
+    height: 300px;
+}
+.item{
+    padding: 10px 10px;
+}
+.innr-item a{
+    text-decoration: none;
+    color: #34495e;
+    padding: 5px 0;
+    
+}
+#imi{
+    font-size: 15px;
+    display: inline-block;
+}
+
+.img-outl img{
+    width: 100%;
+    size: cover;
+    height: 500px;
+   
+}
+
+
+.img-outl h5{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+    font-size: 40px;
+    width: 100%;
+    
+    display: block;
+    
+   
+}
+
+.img-outl h5 a{
+    text-decoration: none;
+    color: #34495e;
+}
+
+#hed:hover{
+background: rgba(149, 165, 166,0.5);
+}
+#videos iframe{
+    width: 100%;
+    size: cover;
+    height: 450px;
+    
+}
+
+.Ico{
+    font-size: 70px;
+   color:#34495e ;
+}
+.HEADING{
+    font-size: 45px;
+    color: #34495e;
+   
+    
+}
+.HEADING::after{
+    background-color: #34495e;
+    content: "";
+    display: block;
+    width: 200px;
+    height: 3px;
+    margin: 20px auto;
+}
+.hh::after{
+    background-color: #34495e;
+    content: "";
+    display: block;
+    width: 360px;
+    height: 3px;
+    margin: 20px auto;
+}
+.cc::after{
+    background-color: #34495e;
+    content: "";
+    display: block;
+    width: 190px;
+    height: 3px;
+    margin: 20px auto;
+
+}
+.ssp::after{
+    background-color: #34495e;
+    content: "";
+    display: block;
+    width: 100px;
+    height: 3px;
+    margin: 20px auto;
+}
+
+.ii{
+    background: rgba(149, 165, 166,0.5);
+    height: 150px;
+    padding: 10px 20px;
+}
+.imm{
+    width: 90px;
+    border: 1px solid #34495e;
+    border-radius: 10%;
+    
+
+}
+#house{
+    font-size: 30px;
+    text-align: center;
+    margin: 0px 25px;
+    color:#34495e ;
+    padding-top: 3px;
+}
+
+
+.imm img{
+    width: 100%;
+    border-radius: 10%;
+    size: cover;
+    
+
+}
+.name{
+  
+    color: #34495e ;
+    text-decoration: none;
+}
+
+.icoon{
+    padding-top: 20px;
+    font-size: 25px;
+    color: #34495e ;
+    text-decoration: none;
+}
+.icoon a{
+   text-decoration: none;
+}
+.footer{
+    background: rgba(149, 165, 166,0.5);
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.fotr{
+margin: 40px 0px;
+color: #34495e ;
+}
+.fotr a{
+    text-decoration: none;
+color: #34495e ;
+}
+.ft{
+    background-color: rgb(52, 73, 94);
+    width: 100%;
+    text-align: center;
+}
+
+#ft a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #b3b4b4 ;
+    
+}
+.read::after{
+    content: "\f101";
+    font-family: FontAwesome;
+    padding-left: 5px;
+}
+.ii{
+    height: 550px;
+}
+
+
+.llee p{
+     
+    border-bottom: 1px solid rgba(109, 108, 108,0.2);
+}
