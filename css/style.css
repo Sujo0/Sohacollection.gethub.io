@@ -29,14 +29,15 @@
     
 }
 
-.nav-bar ul li:hover{
-    background-color: #bdc3c7;
-}
+
 .nav-bar ul li a{
     text-decoration: none;
    color: whitesmoke;
    
 
+}
+.nav-link:hover{
+    color: black;
 }
 .baner{
     background: url(../images/banr.jpg) no-repeat 0 0 ;
@@ -62,7 +63,7 @@
     color: #fff;
 }
 .txt{
-    font-size: 60px;
+    font-size: 50px;
     font-family: 'Courier New', Courier, monospace;
     color: #fff;
     margin-bottom: 10px;
@@ -263,11 +264,7 @@ color: #34495e ;
     color: #b3b4b4 ;
     
 }
-.read::after{
-    content: "\f101";
-    font-family: FontAwesome;
-    padding-left: 5px;
-}
+
 .ii{
     height: 550px;
 }
