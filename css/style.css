@@ -17,28 +17,16 @@
     margin-top: 20px;
     
 }
-.nav-bar{
-    text-align: center;
-    padding: 20px 0;
-}
 .nav-bar ul li{
-    list-style: none;
-    display: inline-block;
-    padding: 0 15px;
     font-size: 20px;
-    
+    padding: 0px 15px;
+}
+.nav-bar ul li:hover{
+    background-color: rgba(184, 185, 184, 0.5);
 }
 
 
-.nav-bar ul li a{
-    text-decoration: none;
-   color: whitesmoke;
-   
 
-}
-.nav-link:hover{
-    color: black;
-}
 .baner{
     background: url(../images/banr.jpg) no-repeat 0 0 ;
     background-size: cover;
@@ -96,10 +84,7 @@
 .right-item i{
     margin-right: 10px;
 }
-.innr-item img{
-    width: 100%;
-    
-    size: cover;
+.product{
     height: 300px;
 }
 .item{
